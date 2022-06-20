@@ -1,0 +1,27 @@
+Aldi  2020-02-04   5  Liverpool
+Aldi  2019-04-24   5  Liverpool
+Aldi  2020-02-04   5  Liverpool
+Aldi  2019-01-08   5  Liverpool
+Aldi  2016-04-04   5  Liverpool
+Aldi  2019-10-31   5  Liverpool
+Aldi  2019-06-03   5  Liverpool
+Aldi  2019-02-08   5  Liverpool
+Aldi  2020-01-09   5  Liverpool
+Aldi  2017-06-27   5  Knowsley
+Aldi  2017-03-22   5  Knowsley
+Aldi  2016-02-25   5  Wigan
+Aldi  2008-07-04   5  Wigan
+Aldi  2011-07-06   5  Wigan
+Aldi  2019-05-17   5  Wigan
+Aldi  2014-02-05   5  Wigan
+Aldi  2012-06-22   5  Wigan
+Aldi  2018-08-23   5  Wirral
+Aldi  2018-11-02   5  Wirral
+Aldi  2019-08-20   5  Wirral
+Aldi  2019-05-22   5  Wirral
+Aldi  2019-05-15   5  St Helens
+ businessName  Zoli's Bites  
+  Date---
+ ratingValue-----AwaitingInspection
+ ratingValue-----St Helens
+ 
